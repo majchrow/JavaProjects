@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>33.jpg</filename>
+	<path>/home/carvinus/Desktop/AGH/Maths_projects/YOLO/src/main/resources/dataset/images/33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>609</width>
+		<height>762</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wolf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>207</ymin>
+			<xmax>584</xmax>
+			<ymax>661</ymax>
+		</bndbox>
+	</object>
+</annotation>
